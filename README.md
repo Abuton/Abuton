@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- :book: I love Programming, Data Science and Teaching
+- :book: I love writing codes, creating Data Science Solutions and Teaching/Mentor
 
 - 🔭 I’m currently working on creating a production ready pipeline for automating data processing and model deployment using shell commands
   - and also building a full-fledged web app that shows analysis results as well as allows user derive inference from the built model using streamlit
@@ -18,7 +18,7 @@
  
  ![Abuton's github stats](https://github-readme-stats.vercel.app/api?username=Abuton&count_private=true&show_icons=true&theme=radical&hide_rank=false)
  
- ![Most Used Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abuton)
+ ![Most Used Tech Stack](https://github-readme-stats.vercel.app/api/top-langs/?username=Abuton)
  
  ### Some of my medium Articles
 <a target="_blank" href="https://gtihub-readme-medium-recent-article.vercel.app/medium/@alaroabubakarolayemi_17412"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@alaroabubakarolayemi_17412/0">
