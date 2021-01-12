@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - :book: I love writing codes, creating Data Science Solutions and Teaching PS: I am an Alumni @10Academy also an HDSC Fellow
-        ML Instructor @codesquad
+        :eyes: ML Instructor @codesquad
 
 - 🔭 I’m currently working on creating a production ready pipeline for automating data processing and model deployment using apache AIRFLOW
   - and also building a full-fledged web app that shows analysis results as well as allows user derive inference from the built model using streamlit
