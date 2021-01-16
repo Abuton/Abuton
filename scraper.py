@@ -37,6 +37,7 @@ def transform(soup):
 
 joblist = []
 
+# run thru 10 pages getting 10 job per page
 for i in range(0, 100, 10):
     print(f'Getting jobs post {i}')
     soup = extract(i)
@@ -44,3 +45,5 @@ for i in range(0, 100, 10):
 
 df = pd.DataFrame(joblist)
 df.head()
+
+df.to_csv('jobs.csv')
