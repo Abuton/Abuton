@@ -44,6 +44,8 @@ for i in range(0, 100, 10):
     transform(soup)
 
 df = pd.DataFrame(joblist)
-df.head()
-
+# df.head()
+lower_bound_salary = [x.split('-')[0].strip().replace('£','').replace(',', '') for x in df['salary']]
+df['lower_bound_salary'] = pd.Series(lower_bound_salary)
+print(df.columns)
 df.to_csv('jobs.csv')
