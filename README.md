@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning data engineering via DataCamp (Data Engineer Track)
 - 👯 I’m looking to collaborate on building solutions that enrich lifes and create better opportunities for people to do more with their time i call it abstract all repetitives taks and focus on the core aspect
 - 💬 Ask me about data science, machine learning, artificial intelligence.
-  - Also i am open to learn more, my ideas might be wrong i stand to be corrected and i accept critism well, without that we cant grow right?
+  - Also i am open to learning more, my ideas might be wrong, i stand to be corrected and i accept critism as well, without that we can't grow right?
 - 📫 How to reach me: 
   - :pencil2: [Medium Articles](https://medium.com/@alaroabubakarolayemi_17412)
   - :bulb: [Tableau Dashboards](https://public.tableau.com/profile/abubakar.alaro3266#!/)
