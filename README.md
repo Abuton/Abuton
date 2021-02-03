@@ -1,10 +1,15 @@
 ### Hi there 👋
 
-- :book: I love writing codes, creating Data Science Solutions and Teaching PS: I am an Alumni @10Academy also an HDSC Fellow <br>
+- :book: I love writing codes, creating Data Science Solutions and Teaching PS: Alumni @10Academy also an HDSC Fellow <br>
                 :eyes: ML Instructor @codesquad <br>
                and the learning continues
 
-- 🔭 I’m working on creating a production ready pipeline for automating data processing and model deployment using apache AIRFLOW&Pyspark. 
+- 🔭 I’m working on creating a production ready pipeline for automating data processing and model deployment using apache AIRFLOW&Pyspark. and i just completed my DATA ENGINEERING TRACK on DataCamp.
+- Hoping to work on my second data engineering project **batch data pipeline**
+    - Technology to be used
+      1. Airflow
+      2. AWS (Redshift and S3)
+      3. Postgresql (OLAP and OLTP DBs)
   - and also building a full-fledged web app that shows analysis results as well as allows user derive inference from the built model using streamlit
 - 🌱 I’m currently learning data engineering via DataCamp (Data Engineer Track) The path to becoming a full time Data Engineer in 2 months
 - 👯 I’m looking to collaborate on building solutions that enrich lifes and create better opportunities for people to do more with their time i call it abstract all repetitives taks and focus on the core aspect
