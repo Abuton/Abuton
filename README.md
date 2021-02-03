@@ -5,13 +5,12 @@
                and the learning continues
 
 - 🔭 I’m working on creating a production ready pipeline for automating data processing and model deployment using apache AIRFLOW&Pyspark. and i just completed my DATA ENGINEERING TRACK on DataCamp.
-- Hoping to work on my second data engineering project **batch data pipeline**
+- 🌱 Hoping to work on my second data engineering project **batch data pipeline**
     - Technology to be used
       1. Airflow
       2. AWS (Redshift and S3)
       3. Postgresql (OLAP and OLTP DBs)
   - and also building a full-fledged web app that shows analysis results as well as allows user derive inference from the built model using streamlit
-- 🌱 I’m currently learning data engineering via DataCamp (Data Engineer Track) The path to becoming a full time Data Engineer in 2 months
 - 👯 I’m looking to collaborate on building solutions that enrich lifes and create better opportunities for people to do more with their time i call it abstract all repetitives taks and focus on the core aspect
 - 💬 Ask me about data science, machine learning, artificial intelligence.
   - Also i am open to learning more, my ideas might be wrong, i stand to be corrected and i accept critism as well, without that we can't grow right?
