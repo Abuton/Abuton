@@ -18,9 +18,9 @@
   - :joy: i'm addicted to learning and improving every day
   - :pencil: i love to see others grow/improve as well
  
- ![Abuton's github stats](https://github-readme-stats.vercel.app/api?username=Abuton&count_private=true&show_icons=true&theme=radical&hide_rank=false)
+ ![Abuton's github stats](https://github-readme-stats.vercel.app/api?username=Abuto&count_private=true&show_icons=true&theme=radical&hide_rank=false)
  
- ![Most Used Tech Stack](https://github-readme-stats.vercel.app/api/top-langs/?username=Abuton)
+ ![Most Used Tech Stack](https://github-readme-stats.vercel.app/api/top-langs/?username=AA)
  
  ### Some of my medium Articles
 <a target="_blank" href="https://gtihub-readme-medium-recent-article.vercel.app/medium/@alaroabubakarolayemi_17412"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@alaroabubakarolayemi_17412/0">
