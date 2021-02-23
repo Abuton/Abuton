@@ -9,7 +9,7 @@
   - and also building a web app that shows analysis results as well as allows user derive inference from the built model using streamlit
 - 👯 I’m looking to collaborate on building solutions that enrich lifes and create better opportunities for people to do more with their time i call it abstract all repetitives taks and focus on the core aspect
 - 💬 Ask me about data science, machine learning, artificial intelligence.
-  - Also i am open to learning more, my ideas might be wrong, i stand to be corrected and i accept critism as well, without that we can't grow right?
+  - Also i am open to learning more, my ideas might be wrong, i stand to be corrected and i accept criticism as well, without that we can't grow right?
 - 📫 How to reach me: by mail: alaroabubakarolayemi@gmail.com
   - :pencil2: [Medium Articles](https://medium.com/@alaroabubakarolayemi_17412)
   - :bulb: [Tableau Dashboards](https://public.tableau.com/profile/abubakar.alaro3266#!/)
