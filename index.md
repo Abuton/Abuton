@@ -1,6 +1,7 @@
 ## Welcome to My Portfolio
 #### My Name 
 
+Email address:  <a href="mailto:firstnamelastname@gmail.com"> my mail </a>
 
 ### here is my profile summary
 
