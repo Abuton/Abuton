@@ -1,25 +1,31 @@
 ## Welcome to My Portfolio
-#### I am Abubakar
+#### My Name 
 
 
 ### here is my profile summary
 
     Summary in 2-3 lines
+    A detailed oriented, passionate learner who
 
 
 # My Project 1
 
-[Link2 project1](url) and ![Image](src)
+[Link to project1](url) and ![Image](src)
+
+Brief summary of the project
 
 
 # My Project 2
 
-[Link2 project2](url) and ![Image](src)
+[Link to project2](url) and ![Image](src)
 
+Brief summary of the project
 
 # My Project 3
 
-[Link2 project3](url) and ![Image](src)
+[Link to project3](url) and ![Image](src)
+
+Brief summary of the project
 
 # My CV is attached below
 <a href="/combination-resume-format.pdf"><img src="images/resume_img.PNG" alt="resume" height=800></a>
