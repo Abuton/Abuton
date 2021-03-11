@@ -22,4 +22,4 @@
 [Link2 project3](url) and ![Image](src)
 
 # My CV is attached below
-<a href="/combination-resume-format.pdf"><img src="images/resume_img.png" alt="resume" height=800></a>
+<a href="/combination-resume-format.pdf"><img src="images/resume_img.PNG" alt="resume" height=800></a>
