@@ -4,7 +4,7 @@
                 :eyes: ML Instructor/ Curriculum Developer @codesquad <br>
                and the learning continues..
 
-- 🔭 I’m working on creating a production ready pipeline for automating data processing and model deployment using apache AIRFLOW & SparkML. Curently Using Kubeflow and Kubernetes
+- 🔭 I’m working on creating a production ready pipeline for automating data processing and model deployment using apache AIRFLOW & SparkML. Curently Learning/Using Kubeflow and Kubernetes to monitor deployed models
 - 🌱 Currently practicing my data engineering skills with GCP guided by Data Engineering Specialization on Coursera
   - and also building a web app that shows analysis results as well as allows user derive inference from the built model using streamlit
 - 👯 I’m looking to collaborate on building solutions that enrich lifes and create better opportunities for people to do more with their time i call it abstract all repetitives taks and focus on the core aspect
