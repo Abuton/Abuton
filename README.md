@@ -6,7 +6,7 @@
 
 - 🔭 I’m working on creating a production ready pipeline for automating data processing and model deployment using apache AIRFLOW & SparkML. Curently Learning/Using Kubeflow and Kubernetes to monitor deployed models
 - 🌱 Currently practicing my data engineering skills with GCP guided by Data Engineering Specialization on Coursera
-  - and also building a web app that shows analysis results as well as allows user derive inference from the built model using streamlit
+  - and also working on a data model, feature store and hierachichal models to make guided decisions.
 - 👯 I’m looking to collaborate on building solutions that enrich lifes and create better opportunities for people to do more with their time i call it abstract all repetitives taks and focus on the core aspect
 - 💬 Ask me about data science, machine learning, artificial intelligence.
   - Also i am open to learning more, my ideas might be wrong, i stand to be corrected and i accept criticism as well, without that we can't grow right?
