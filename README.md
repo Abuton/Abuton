@@ -4,7 +4,7 @@
                 :eyes: ML Instructor/ Curriculum Developer @codesquad <br>
                and learning continues... Loves Automobile, Farming, 
 
-- 🔭 creating a production ready pipeline for automating data processing and model deployment using apache AIRFLOW & SparkML.
+- 🔭 creating production ready pipeline for automating data processing and model deployment using apache AIRFLOW & SparkML.
 - 🌱 practicing data engineering with GCP 
   - and also working on a data model, feature store and hierachichal models to make guided decisions.
 - 👯 I’m looking to collaborate on building solutions that enrich lifes and create better opportunities for people to do more with their time. I call it abstract all repetitives tasks and focus on the core aspect
