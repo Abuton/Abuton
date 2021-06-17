@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- :book: I love writing codes, creating Data Driven Solutions and Teaching PS: Alumni @10Academy, HDSC Fellow <br>
-                :eyes: Data Scientist @10Academy  ML Instructor/ Curriculum Developer @codesquad <br>
-               and learning continues... Loves Automobile, Farming, 
-- 🔭 creating production ready pipeline for automating data processing and model deployment using apache AIRFLOW & SparkML.
+- :book: I love writing codes, creating Data Pipelines and Tutoring PS: Alumni @10Academy, HDSC Fellow <br>
+                :eyes: Data Science Developer @10Academy  ML Instructor/ Curriculum Developer @codesquad <br>
+               and learning continues... Loves Cats 🐱 :octocat: 
+- 🔭 creating production ready pipeline for automating data processing and model deployment using apache AIRFLOW for Scheduling & SparkML for Modelling.
 - 🌱 practicing Data Engineering with GCP 
   - and also working on a data model, feature store and hierachichal models to make guided decisions.
 - 👯 I’m looking to collaborate on building solutions that enrich lifes and create better opportunities for people to do more with their time. I call it abstract all repetitives tasks and focus on the core aspect
