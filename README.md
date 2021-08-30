@@ -17,11 +17,15 @@
   - :joy: i'm addicted to learning and improving every day
   - :pencil: i love to see others grow and improve
  
- ![Abuton's github stats](https://github-readme-stats.vercel.app/api?username=Abuton&count_private=true&show_icons=true&theme=radical&hide_rank=false)
+ ![Abuton's github stats](https://github-readme-stats.vercel.app/api?username=Abuton&count_private=true&show_icons=true&theme=tokyonight&hide_rank=false&include_all_commits=true)
  
  ![Most Used Tech Stack](https://github-readme-stats.vercel.app/api/top-langs/?username=Abuton)
  
- ### Some of my medium Articles
+ ![trophy](https://github-profile-trophy.vercel.app/?username=Abuton)
+ 
+<!--  ![Profile views](https://gpvc.arturio.dev/Abuton)   -->
+ 
+ ### Some of my Technical Articles
 <a target="_blank" href="https://gtihub-readme-medium-recent-article.vercel.app/medium/@alaroabubakarolayemi_17412"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@alaroabubakarolayemi_17412/0">
 <a target="_blank" href="https://gtihub-readme-medium-recent-article.vercel.app/medium/@alaroabubakarolayemi_17412"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@alaroabubakarolayemi_17412/1">
 <a target="_blank" href="https://gtihub-readme-medium-recent-article.vercel.app/medium/@alaroabubakarolayemi_17412"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@alaroabubakarolayemi_17412/2">
