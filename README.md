@@ -1,4 +1,4 @@
-### Hi there 👋, I am Abubakar Alaro
+## Hi there 👋, I am Abubakar Alaro
 
 - :book: I love writing production ready codes, creating Data Pipelines and Tutoring PS: Alumni @10Academy, HDSC Fellow <br>
                 :eyes: Data Engineer @10Academy  ML Instructor/ Curriculum Developer @codesquad <br>
@@ -16,8 +16,15 @@
 - ⚡ Fun fact: 
   - :joy: i'm addicted to learning and improving every day
   - :pencil: i love to see others grow and improve
+
+
+<!--  ![Profile views](https://gpvc.arturio.dev/Abuton)   -->
  
- ![Profile views](https://gpvc.arturio.dev/Abuton)  
+ ![Abuton's github stats](https://github-readme-stats.vercel.app/api?username=Abuton&count_private=true&show_icons=true&theme=tokyonight&hide_rank=false&include_all_commits=true)
+ 
+ ![Most Used Tech Stack](https://github-readme-stats.vercel.app/api/top-langs/?username=Abuton)
+ 
+ ![trophy](https://github-profile-trophy.vercel.app/?username=Abuton)
  
  ### Technical Articles Written By Me
 <a target="_blank" href="https://gtihub-readme-medium-recent-article.vercel.app/medium/@alaroabubakarolayemi_17412"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@alaroabubakarolayemi_17412/0">
