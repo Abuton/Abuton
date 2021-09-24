@@ -1,4 +1,4 @@
-## Hi there 👋, I am Abubakar Alaro
+## Hi there 👋 I am Abubakar Alaro
 
 - :book: I love writing production ready codes, creating Data Pipelines and Tutoring PS: Alumni @10Academy, HDSC Fellow <br>
                 :eyes: Data Engineer @10Academy  ML Instructor/ Curriculum Developer @codesquad <br>
