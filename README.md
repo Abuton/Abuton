@@ -10,7 +10,7 @@
 - 💬 Ask me about topics related to data science, machine learning, data engineering.
   - I am open to learning more, my ideas might be wrong, I accept criticism, without that we can't grow right?
 
-  - :pencil2: [Medium Articles](https://medium.com/@alaroabubakarolayemi_17412)
+  - :pencil2: [Medium Articles](https://medium.com/@abuton)
   - :bulb: [Tableau Dashboards](https://public.tableau.com/profile/abubakar.alaro3266#!/)
   - :office: [Linkedln](https://www.linkedln.com/in/abubakar-olayemi-alaro)
 - ⚡ Fun fact: 
@@ -27,6 +27,7 @@
  ![trophy](https://github-profile-trophy.vercel.app/?username=Abuton)
  
  ### Technical Articles Written By Me
-<a target="_blank" href="https://gtihub-readme-medium-recent-article.vercel.app/medium/@alaroabubakarolayemi_17412"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@alaroabubakarolayemi_17412/0">
-<a target="_blank" href="https://gtihub-readme-medium-recent-article.vercel.app/medium/@alaroabubakarolayemi_17412"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@alaroabubakarolayemi_17412/1">
-<a target="_blank" href="https://gtihub-readme-medium-recent-article.vercel.app/medium/@alaroabubakarolayemi_17412"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@alaroabubakarolayemi_17412/2">
+<a target="_blank" href="https://gtihub-readme-medium-recent-article.vercel.app/medium/@alaroabubakarolayemi_17412"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@abuton/0">
+<a target="_blank" href="https://gtihub-readme-medium-recent-article.vercel.app/medium/@alaroabubakarolayemi_17412"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@abuton/1">
+<a target="_blank" href="https://gtihub-readme-medium-recent-article.vercel.app/medium/@alaroabubakarolayemi_17412"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@abuton/2">
+<a target="_blank" href="https://gtihub-readme-medium-recent-article.vercel.app/medium/@alaroabubakarolayemi_17412"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@abuton/3">
