@@ -3,13 +3,11 @@
 - :book: I love writing production ready codes, creating Data Pipelines and Tutoring PS: Alumni @10Academy, HDSC Fellow <br>
                 :eyes: Data Engineer @10Academy  ML Instructor/ Curriculum Developer @codesquad <br>
                and learning continues... Loves Cats 🐱 :octocat: 
-- 🔭 creating production ready pipeline for automating data processing and model deployment using apache AIRFLOW for Scheduling & Spark for Data Processing and and Tableau for Visualization.
+- 🔭 creating production ready pipeline for automating data extraction, loading and transformation using tools like Apache Airflow for Orchestration, dbt for Transformation & Spark for Big Data Processing with some BI tools such as Tableau, Data Studio, Superset for Visualization and Insights Communication.
 - 🌱 practicing Data Engineering with Google Cloud Platform services like DataProc, DataFlow, BigQuery, Cloud BigTable etc
-  - and also working on a data model, feature store and hierachichal models to make guided decisions.
-- 👯 I’m looking to collaborate on building solutions that enrich lifes and create better opportunities for people to do more with their time. I call it abstract all repetitives tasks and focus on the core aspect which is thinking about the problem
-- 💬 Ask me about topics related to data science, machine learning, data engineering.
-  - I am open to learning more, my ideas might be wrong, I accept criticism, without that we can't grow right?
-
+  - and also working on a data modeling, feature store development.
+- 👯 I’m looking to collaborate on building solutions, data platforms and pipelines that enrich lifes, helps transform Business into data driven and create better opportunities for my collegues (Analyst, BI Developer, Data Scientist etc) to do more with their time. I call it abstract all repetitives tasks by being the Plumber (yea right, that's me)
+- 💬 Ask me about topics related to data science, machine learning, data engineering
   - :pencil2: [Medium Articles](https://medium.com/@abuton)
   - :bulb: [Tableau Dashboards](https://public.tableau.com/profile/abubakar.alaro3266#!/)
   - :office: [Linkedln](https://www.linkedln.com/in/abubakar-olayemi-alaro)
