@@ -15,7 +15,7 @@
   - :joy: i'm addicted to learning and improving every day
   - :pencil: i love to see others grow and improve
 - Exploring ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white) for Big Data Analytics 
-- Learning how to build Data Platform till I find a field i want to focus on
+- Learning how to build Data Platform to better deliver quality service to users
 
 <!--  ![Profile views](https://gpvc.arturio.dev/Abuton)   -->
  
