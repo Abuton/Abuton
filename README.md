@@ -6,7 +6,7 @@
 - 🔭 creating production ready pipeline for automating data extraction, loading and transformation using tools like Apache Airflow for Orchestration, dbt for Transformation & Spark for Big Data Processing with some BI tools such as Tableau, Data Studio, Superset for Visualization and Insights Communication.
 - 🌱 practicing Data Engineering with Google Cloud Platform services like DataProc, DataFlow, BigQuery, Cloud BigTable etc
   - and also working on a data modeling, feature store development.
-- 👯 I’m looking to collaborate on building solutions, data platforms and pipelines that enrich lifes, helps transform Business into data driven and create better opportunities for my collegues (Analyst, BI Developer, Data Scientist etc) to do more with their time. I call it abstract all repetitives tasks by being the Plumber (yea right, that's me)
+- 👯 I’m looking for collaboration to build tools, system designs, data platforms and pipelines that helps transform Business into being data-driven.
 - 💬 Ask me about topics related to data science, machine learning, data engineering
   - :pencil2: [Medium Articles](https://medium.com/@abuton)
   - :bulb: [Tableau Dashboards](https://public.tableau.com/profile/abubakar.alaro3266#!/)
