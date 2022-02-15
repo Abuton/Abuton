@@ -9,7 +9,7 @@
 - 💬 Ask me about topics related to Data Science, Machine Learning, Data Engineering
   - :pencil2: [Medium Articles](https://medium.com/@abuton)
 <!--   - :bulb: [Tableau Dashboards](https://public.tableau.com/profile/abubakar.alaro3266#!/) -->
-  - :office: [Linkedln](https://www.linkedln.com/in/abubakar-olayemi-alaro)
+  - :office: [Linkedln](https://linkedin.com/in/abubakar-olayemi-alaro)
 - ⚡ Fun fact: 
   - :joy: i'm addicted to learning and improving every day
   - :pencil: i love to see others grow and improve
