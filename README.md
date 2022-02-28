@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Abubakar Alaro
 
-- :book: I love writing production ready codes, creating Data Pipelines and Tutoring PS: Alumni @10Academy, HDSC Fellow <br>
+- :book: I love writing production ready codes, creating Data Pipelines and Tutoring PS: Alumni @10Academy <br>
                 💻: Data Engineer <br>
                and learning continues... Loves Cats 🐱 :octocat: 
 - 🔭 creating production ready pipeline for automating data extraction, loading and transformation using tools like Apache Airflow for Orchestration, dbt for Transformation & Spark for Big Data Processing with some BI tools such as Tableau, Data Studio, Superset for Visualization and Insights Communication.
@@ -25,7 +25,7 @@
  ![trophy](https://github-profile-trophy.vercel.app/?username=Abuton)
  
  ### Technical Articles Written By Me
-<a target="_blank" href="https://gtihub-readme-medium-recent-article.vercel.app/medium/@alaroabubakarolayemi_17412"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@abuton/0">
-<a target="_blank" href="https://gtihub-readme-medium-recent-article.vercel.app/medium/@alaroabubakarolayemi_17412"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@abuton/1">
-<a target="_blank" href="https://gtihub-readme-medium-recent-article.vercel.app/medium/@alaroabubakarolayemi_17412"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@abuton/2">
-<a target="_blank" href="https://gtihub-readme-medium-recent-article.vercel.app/medium/@alaroabubakarolayemi_17412"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@abuton/3">
+<a target="_blank" href="https://gtihub-readme-medium-recent-article.vercel.app/medium/@abuton"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@abuton/0">
+<a target="_blank" href="https://gtihub-readme-medium-recent-article.vercel.app/medium/@abuton"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@abuton/1">
+<a target="_blank" href="https://gtihub-readme-medium-recent-article.vercel.app/medium/@abuton"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@abuton/2">
+<a target="_blank" href="https://gtihub-readme-medium-recent-article.vercel.app/medium/@abuton"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@abuton/3">
