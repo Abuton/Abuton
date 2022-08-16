@@ -1,4 +1,4 @@
-## Hi there 👋 I am Abubakar Alaro
+## Hi, I am Abubakar Alaro
 
 - :book: I love writing codes, creating Data Pipelines (ETL, ELT, EL EtLT) and Tutoring PS: Alumni @10Academy <br>
                 💻: Data Engineer <br>
